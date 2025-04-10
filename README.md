@@ -48,7 +48,7 @@
 
 ## 📫 ¿Conectemos?
 
-- [LinkedIn]([https://linkedin.com/in/pepito](https://www.linkedin.com/in/davidfernandezroman/))
+- [LinkedIn](https://www.linkedin.com/in/davidfernandezroman/))
 - 📧 Email: davidfr.work@gmail.com
 
 ---
