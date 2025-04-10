@@ -2,7 +2,7 @@
 
 💻 **Desarrollador Web con 3+ años de experiencia** en desarrollo backend, especializado en PHP, Laravel, y bases de datos como PostgreSQL y MySQL. Con una fuerte comprensión de los principios de desarrollo limpio y escalabilidad, siempre busco crear soluciones eficientes y sostenibles. Actualmente, estoy expandiendo mis conocimientos en **Spring Boot** para mejorar mis habilidades en Java y seguir construyendo APIs robustas.
 
-🚀 Mi enfoque principal está en el desarrollo de sistemas backend, pero también tengo experiencia en frontend, utilizando tecnologías como **Next.js**, **JavaScript**, **TypeScript**, **TailwindCSS** y **Bootstrap**. Mi objetivo es construir aplicaciones completas y bien estructuradas, desde la base de datos hasta la interfaz de usuario, con un énfasis claro en la lógica de servidor y la optimización del rendimiento.
+🚀 Mi enfoque principal está en el desarrollo de sistemas backend, pero también tengo experiencia en frontend, utilizando tecnologías como **Next.js**, **Angular**, **JavaScript**, **TypeScript**, **TailwindCSS** y **Bootstrap**. Mi objetivo es construir aplicaciones completas y bien estructuradas, desde la base de datos hasta la interfaz de usuario, con un énfasis claro en la lógica de servidor y la optimización del rendimiento.
 
 ---
 
@@ -25,7 +25,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Otras tecnologías:
-[Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=amazonaws&logoColor=white)
