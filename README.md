@@ -16,6 +16,7 @@
 
 ### Frontend:
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
@@ -24,9 +25,17 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Otras tecnologías:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+[Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+### Sistemas Operativos:
+![MacOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-0078D4?style=flat&logo=linux&logoColor=white)
 
 ---
 
@@ -43,13 +52,3 @@
 - 📧 Email: davidfr.work@gmail.com
 
 ---
-
-## 🚀 Proyectos destacados
-
-- **[Proyecto X](https://github.com/itssDavyd/proyecto-x)**: Backend en Laravel para gestión de usuarios.
-- **[Proyecto Y](https://github.com/itssDavyd/proyecto-y)**: API en Spring Boot para un sistema de comercio electrónico.
-- **[Proyecto Z](https://github.com/itssDavyd/proyecto-z)**: Desarrollo fullstack con Next.js y PostgreSQL para un dashboard de administración.
-
----
-
-**¡Gracias por visitar mi perfil!**
