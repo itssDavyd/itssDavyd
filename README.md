@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy David
 
-💻 **Desarrollador Web con 3+ años de experiencia** en desarrollo backend, especializado en PHP, Laravel, y bases de datos como PostgreSQL y MySQL. Con una fuerte comprensión de los principios de desarrollo limpio y escalabilidad, siempre busco crear soluciones eficientes y sostenibles. Actualmente, estoy expandiendo mis conocimientos en **Spring Boot** para mejorar mis habilidades en Java y seguir construyendo APIs robustas.
+💻 **Desarrollador Web con 3+ años de experiencia** en desarrollo backend, especializado en PHP, Laravel, y bases de datos como PostgreSQL y MySQL. Con una fuerte comprensión de los principios de desarrollo limpio y escalabilidad, siempre busco crear soluciones eficientes y sostenibles. Actualmente, estoy expandiendo mis conocimientos en **Spring Boot** y **NestJS** para mejorar mis habilidades y seguir construyendo APIs robustas.
 
 🚀 Mi enfoque principal está en el desarrollo de sistemas backend, pero también tengo experiencia en frontend, utilizando tecnologías como **Next.js**, **Angular**, **JavaScript**, **TypeScript**, **TailwindCSS** y **Bootstrap**. Mi objetivo es construir aplicaciones completas y bien estructuradas, desde la base de datos hasta la interfaz de usuario, con un énfasis claro en la lógica de servidor y la optimización del rendimiento.
 
