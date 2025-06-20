@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy David
 
-💻 **Desarrollador Web con 3+ años de experiencia** en desarrollo backend, especializado en PHP, Laravel, y bases de datos como PostgreSQL y MySQL. Con una fuerte comprensión de los principios de desarrollo limpio y escalabilidad, siempre busco crear soluciones eficientes y sostenibles. Actualmente, estoy expandiendo mis conocimientos en **Spring Boot** y **NestJS** para mejorar mis habilidades y seguir construyendo APIs robustas.
+💻 **Desarrollador Web con 3+ años de experiencia** en desarrollo backend, especializado en PHP, Laravel, y bases de datos como PostgreSQL y MySQL. Con una fuerte comprensión de los principios de desarrollo limpio y escalabilidad, siempre busco crear soluciones eficientes y sostenibles. Actualmente, estoy expandiendo mis conocimientos en **Spring Boot** y **Python** para mejorar mis habilidades y seguir construyendo APIs robustas.
+
+🎓 Actualmente curso una especialización en Inteligencia Artificial y Big Data, lo que ha reforzado mi interés en la ciencia de datos, el procesamiento de información a gran escala y las automatizaciones inteligentes mediante IA.
 
 🚀 Mi enfoque principal está en el desarrollo de sistemas backend, pero también tengo experiencia en frontend, utilizando tecnologías como **Next.js**, **Angular**, **JavaScript**, **TypeScript**, **TailwindCSS** y **Bootstrap**. Mi objetivo es construir aplicaciones completas y bien estructuradas, desde la base de datos hasta la interfaz de usuario, con un énfasis claro en la lógica de servidor y la optimización del rendimiento.
 
@@ -11,8 +13,8 @@
 ### Backend:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### Frontend:
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
