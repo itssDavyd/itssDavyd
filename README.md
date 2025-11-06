@@ -35,6 +35,7 @@
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)
 
 ### Sistemas Operativos:
 ![MacOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
